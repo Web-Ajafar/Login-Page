@@ -1,0 +1,23 @@
+.admin-box{
+    background-color: rgb(241, 0, 0);
+    padding: 20px;width: 50%;margin: auto;text-align: center;
+ }
+ .admin-box h1{
+    color: rgb(40, 4, 156);font-size: 50px;
+ }
+ .admin-box form{text-align: center;
+ }
+ .admin-box form input{
+ width: 90%;margin: 10px auto;padding: 10px;
+ font-size: 15px;border: none;
+ }
+ #btn{width: 250px;
+ 
+ }
+ .links{
+ margin: top 20px;text-align: end;font-size:18px;
+ }
+ .links a{
+    text-decoration: none; color: rgb(40, 4, 156);
+ }
+ body{padding: 20px;border:20px;margin: 20px;}

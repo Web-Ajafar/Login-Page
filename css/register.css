@@ -1,0 +1,20 @@
+.admin-box{
+    background-color: rgb(205, 241, 0);
+    padding: 5px;width: 60%;margin:auto;
+ }
+ .admin-box h1{
+    color: rgb(40, 4, 156);font-size: 50px;text-align: center;
+ }
+ .admin-box h3{font-size: 40px;color: rgb(255, 0, 0);}
+ .admin-box form{text-align: center;}
+
+ .admin-box input{width: 50%;padding: 5px;}
+ #btn{width: 100px;color: rgb(235, 20, 63);font-size: 15px;}
+.admin-box label{font-size: 20px;}
+ .links{
+ margin: top 20px;text-align: end;font-size:18px;
+ }
+ .links a{
+    text-decoration: none; color: rgb(40, 4, 156);
+ }
+ body{padding: 20px;border:20px;margin:0px;}
